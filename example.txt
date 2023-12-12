@@ -1,1 +1,2 @@
-IAm learning devops with my friends
+IAm learning devops with my friends 
+github installed getting eror
